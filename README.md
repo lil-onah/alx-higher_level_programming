@@ -1,1 +1,1 @@
-These repo contains all the python projects im learning in alx.
+These repo contains all the python projects i'm learning in alx.
