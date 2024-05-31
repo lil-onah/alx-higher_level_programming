@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c $PYFILE
+gcc python3 -c $PYFILE
